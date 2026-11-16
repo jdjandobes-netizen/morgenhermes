@@ -1,0 +1,1021 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-13",
+ "edition": "afternoon",
+ "dateLabel": "pátek 13. listopadu 2026",
+ "generated": "16:45",
+ "kicker": "Odpolední vydání · pro Honzu",
+ "title": "Evropa <em>bez vyjednavače</em>, Microsoft bez pošty",
+ "intro": "Odpoledne patřilo Dublinu: Evropa má slíbené místo u jednání o Ukrajině, ale ne člověka, který ho obsadí. Doma řeší Univerzita Karlova únik dat ze studijního systému, v Moskvě vybuchlo další auto a výpadek Microsoftu se protáhl přes celý den.",
+ "lead": {
+  "tags": [
+   "Hlavní téma",
+   "Svět",
+   "Vývoj"
+  ],
+  "title": "Evropa má slíbené místo u stolu, ale neví, kdo si na ně sedne. Merz Trumpa žádá: žádný druhý Anchorage",
+  "dek": "Lídři EU v Dublinu ani v pátek nenašli shodu, kdo bude Evropu zastupovat u jednání o konci války na Ukrajině. Merz zároveň Trumpa varoval před překvapeními na jeho chystané schůzce s Putinem v Číně.",
+  "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropa-ziskala-vytouzene-misto-v-jednani-o-miru-ale-nevi-kym-ho-obsadit-320456",
+  "image": {
+   "src": "media/2026-11-13/433bd7112784e419-1400.webp",
+   "credit": "Foto: Reuters / Seznam Zprávy"
+  },
+  "why": [
+   [
+    "Co se stalo",
+    "Podle Politica se sedmadvacítka rozdělila nejméně do tří táborů: jedni by za Evropu vyslali neutrálního předsedu Evropské rady Antónia Costu, jiní vůči Rusku nekompromisní šéfdiplomatku Kaju Kallasovou. Kancléř Merz na okraj summitu vyzval Trumpa, aby na příštím týdnu ohlášeném setkání s Putinem při summitu APEC v Číně nepřichystal „žádná překvapení“ a neopakoval loňské Anchorage."
+   ],
+   [
+    "Proč na tom záleží",
+    "Witkoff po návratu z Moskvy slíbil, že se Evropané připojí k dalšímu kolu jednání do Vánoc, o rovnocenném čtyřstranném formátu ale řeč nebyla. Moskva podle Guardianu vzkazuje, že Evropa musí nejdřív ukázat, čím „přispěje“, a Kallasová varuje před ruskými „pastmi“ v pořadí jednání. Evropa, Británie a Norsko přitom od roku 2022 daly Ukrajině kolem 300 miliard eur."
+   ],
+   [
+    "Co sledovat",
+    "Závěry dublinského summitu a večerní tiskovou konferenci, jméno evropského vyjednavače, schůzku Trump–Putin v Číně a zda se uskuteční Kushnerem ohlášená největší výměna zajatců této války."
+   ]
+  ],
+  "sources": [
+   {
+    "name": "Seznam Zprávy",
+    "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropa-ziskala-vytouzene-misto-v-jednani-o-miru-ale-nevi-kym-ho-obsadit-320456"
+   },
+   {
+    "name": "Deník N",
+    "url": "https://denikn.cz/2256289/evropsky-hlavolam-komu-putin-na-jednanich-nezabouchne-dvere-lidri-zvazuji-tri-moznosti/"
+   },
+   {
+    "name": "Respekt / Politico",
+    "url": "https://www.respekt.cz/informacni-servis/lidri-se-neshoduji-kdo-by-mel-eu-zastupovat-na-mirovych-jednanich-2026-11-13-11-09"
+   },
+   {
+    "name": "Aktuálně.cz / Reuters",
+    "url": "https://zpravy.aktualne.cz/zahranici/merz-vyzval-trumpa-aby-pri-hovoru-s-putinem-neprekvapil-evropu/r~aaa2914a5b690e66aff1af2cd6729dcd/"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
+   },
+   {
+    "name": "NYT",
+    "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+   }
+  ]
+ },
+ "five": [
+  {
+   "label": "Svět",
+   "text": "EU se v Dublinu neshodla, kdo ji bude zastupovat u jednání o Ukrajině; Merz žádá Trumpa: žádná překvapení s Putinem.",
+   "source": "Seznam Zprávy / Reuters",
+   "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropa-ziskala-vytouzene-misto-v-jednani-o-miru-ale-nevi-kym-ho-obsadit-320456"
+  },
+  {
+   "label": "Česko",
+   "text": "Hackeři stáhli z Univerzity Karlovy část osobních údajů ze studijního systému, řeší to NÚKIB i policie.",
+   "source": "ČT24 / Seznam Zprávy",
+   "url": "https://ct24.ceskatelevize.cz/clanek/domaci/univerzita-karlova-resi-kyberneticky-utok-379584"
+  },
+  {
+   "label": "Rusko",
+   "text": "V Moskvě podruhé za dva dny vybuchlo auto; těžce zraněn je exmluvčí proruského ukrajinského premiéra Azarova.",
+   "source": "The Moscow Times / Meduza",
+   "url": "https://www.themoscowtimes.com/2026/11/13/former-aide-to-pro-russian-ukrainian-pm-seriously-injured-in-moscow-car-blast-a94251"
+  },
+  {
+   "label": "USA",
+   "text": "Bessent viní Lutnickův resort ze zdržení sankcí na Megaspeed z kauzy Nvidie; Lutnick bude v prosinci vypovídat.",
+   "source": "The Guardian / NYT",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+  },
+  {
+   "label": "Tech",
+   "text": "Výpadek Microsoftu 365 trvá přes den; firma hlásí zlepšení a vylučuje útok, příčinu neuvedla.",
+   "source": "Seznam Zprávy / TechCrunch / BBC",
+   "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-vypadek-microsoft-otazky-a-odpovedi-320463"
+  }
+ ],
+ "sections": [
+  {
+   "id": "cesko",
+   "name": "Česko",
+   "note": "Co se stalo od rána",
+   "items": [
+    {
+     "kicker": "Kyberbezpečnost",
+     "title": "Hackeři vnikli do systému Univerzity Karlovy a stáhli část údajů studentů",
+     "summary": "Útočník přes kompromitovanou webovou aplikaci získal přístup k centrálnímu Studijnímu informačnímu systému a stáhl část dat včetně osobních údajů. Kolik lidí je zasaženo, škola teprve zjišťuje; aplikaci odstavila, incident nahlásila NÚKIB a podala trestní oznámení.",
+     "source": "ČT24 / Seznam Zprávy / Aktuálně.cz / Lupa.cz",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/univerzita-karlova-resi-kyberneticky-utok-379584",
+     "time": "před 5 h",
+     "verified": true,
+     "update": false,
+     "image": "media/2026-11-13/9a43ff51596f3e31-1000.webp"
+    },
+    {
+     "kicker": "Sport a politika",
+     "title": "Vláda reprezentaci nezakáže hrát proti Rusům, říká Šťastný",
+     "summary": "Zákaz by byl podle ministra sportu Borise Šťastného (Motoristé) zásahem do samosprávy sportovních svazů, vláda s žádným opatřením nepočítá. Evropská unie se mezitím podle Respektu chystá účast Ruska na sportovních akcích omezit.",
+     "source": "ČT24 / iROZHLAS / Seznam Zprávy / Respekt",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nezakaze-hokejistum-hrat-proti-rusum-rekl-stastny-379592",
+     "time": "před 3 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Zemědělství",
+     "title": "Šebestyán odvolal celou Radu Vinařského fondu",
+     "summary": "Ministr zemědělství Martin Šebestyán (za SPD) odvolal všech 11 členů rady poté, co NKÚ zjistil opakované porušování pravidel a neoprávněné výplaty podpor.",
+     "source": "ČT24 / Seznam Zprávy / Aktuálně.cz",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/sebestyan-odvolal-vsechny-cleny-rady-vinarskeho-fondu-kvuli-zjisteni-nku-379585",
+     "time": "před 4 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Energie",
+     "title": "Innogy od ledna zdraží energie zákazníkům bez fixace",
+     "summary": "Elektřina bez závazku podraží o 150 Kč za MWh bez DPH, plyn o 334 Kč za MWh s DPH. Týká se to zákazníků se smlouvou na dobu neurčitou.",
+     "source": "ČT24 / Aktuálně.cz",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/innogy-zdrazi-energie-zakaznikum-bez-zavazku-379600",
+     "time": "před chvílí",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Regiony",
+     "title": "Jižním Čechám hrozí na jaře nedostatek pitné vody",
+     "summary": "Vodárenská nádrž Římov se po snížení odtoku neplní, varuje hejtman Martin Kuba. Z Římova se vyrábí pitná voda pro velkou část kraje.",
+     "source": "iROZHLAS / Seznam Zprávy / Aktuálně.cz",
+     "url": "https://www.irozhlas.cz/veda-technologie/priroda/nadrz-rimov-se-po-snizeni-odtoku-neplni-jihoceskemu-kraji-hrozi-problem-s_2611131200_mkm",
+     "time": "před 4 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    }
+   ],
+   "minor": [
+    {
+     "text": "Před nedělní Letnou: demonstrace Milionu chvilek za nezávislost ČT a ČRo začíná ve 14:00, Deník N shrnul dopravu a omezení.",
+     "url": "https://denikn.cz/2256504/prehledne-jak-se-v-nedeli-dostanete-na-letnou-a-co-vas-muze-zaskocit/"
+    },
+    {
+     "text": "Radikální izraelský osadník Josi Dagan, kterého nepustili do Francie, jednal v Praze s politiky ANO i ODS, mezi nimi s ministrem Šťastným.",
+     "url": "https://denikn.cz/2256173/do-francie-nesmel-v-cesku-nasel-podporu-radikalni-izraelsky-osadnik-jednal-s-politiky-ano-i-ods/"
+    },
+    {
+     "text": "Průzkum Globsec: návrat povinné vojny podporuje 63 % Čechů, zemi by bránilo 55 %, připravenou na válku ji vidí jen 24 %.",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/navrat-povinne-vojenske-sluzbu-podporuje-63-procent-cechu-55-procent-by-zemi-branilo-379583"
+    },
+    {
+     "text": "Moderátorka Jana Peroutková po 15 letech na konci roku odchází z České televize.",
+     "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-jana-peroutkova-konci-po-15-letech-v-ceske-televizi-320492"
+    }
+   ]
+  },
+  {
+   "id": "svet",
+   "name": "Svět",
+   "note": "Evropa a globální dění od rána",
+   "items": [
+    {
+     "kicker": "Ukrajina",
+     "title": "Ruský dron zasáhl nemocnici v centru Kyjeva",
+     "summary": "Dron ve 3 ráno narazil do Národního institutu traumatologie a ortopedie nedaleko několika západních ambasád, tři lidé jsou zranění. Zelenskyj předtím uvedl, že omezení rychlosti na systému Starshield od SpaceX ztěžuje sestřelování dronů.",
+     "source": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+     "time": "před 4 h",
+     "verified": false,
+     "update": false,
+     "image": "media/2026-11-13/b3a9e5f08a8f53e2-1800.webp"
+    },
+    {
+     "kicker": "Írán",
+     "title": "MAAE: roste znepokojení kvůli nikdy neprověřenému obohacovacímu závodu",
+     "summary": "Podle nové zprávy agentura neví ani přesnou polohu závodu v Isfahánu, který Írán ohlásil den před loňskými izraelskými údery. V Hormuzském průlivu mezitím podle Íránu najel na minu tanker s LNG.",
+     "source": "Reuters / BBC",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
+     "time": "před 2 h",
+     "verified": true,
+     "update": true,
+     "image": null
+    },
+    {
+     "kicker": "Německo",
+     "title": "Bundestag schválil rozpočet na rok 2027 s druhým nejvyšším dluhem v historii",
+     "summary": "Vyšší nové zadlužení měl jen covidový rok 2021. Poslanci zároveň kvůli hybridním hrozbám rozšířili pravomoci domácí i zahraniční tajné služby.",
+     "source": "Reuters / DW / ČT24",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlp1cW1LT1N1TEJxU3ljRFhxSjVJSE9xV28yNWlTZVliNG04WlcxaWczaTNEbmlqTnVmZElzbW5vV0ZJRmVMNEZnbDJoUl9OcFU3M0JtQTdQMURfT0ctM05QUjQycjN2d0ZSSFpieHdCazlnMDZXaVR1di12ODlsUmlJSEkxU3Z2emRMRDJQRGZHQlM3anc?oc=5",
+     "time": "před 10 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Nizozemsko",
+     "title": "Nizozemská vláda jedná, aby nepadla kvůli sporu o majetkovou daň",
+     "summary": "Koalice se rozhádala o zdanění majetku; podle Reuters jednání v pátek mají odvrátit rozpad kabinetu.",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkFYa1l2Q1d3RnhPSTU0VnZ4NnA3TmwwdlB0YzRxM0x2aWRNYVVheUZzeEozbTgwMHBXM3U3RkYyZ2o4NnpDaTRCVkpBSWprMHZmT0Vsczdoa2ZPN2w1ZjBYT3R0UzVPaEE0cWw3SnpqS1BnelBqTEdKb1VQS05HSzdOZ2lZVlVWVk5oWkl5XzdWSVMydzFwclFySThIME1LWW53dTl1T25tRGpI?oc=5",
+     "time": "před 9 h",
+     "verified": false,
+     "update": false,
+     "image": null
+    }
+   ],
+   "minor": [
+    {
+     "text": "Izrael zakázal vstup lídrovi francouzské radikální levice Mélenchonovi, Paříž krok označila za demagogický.",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFg4aE1zaHpQMlFWSU5vY3RWblpNZTF0cG9kNENyd3ZQZ3oySXFZWGJsakJOakxORVFVM3plVUN0X0pPUk54UVh2bVNjZEJzV1NlMzBIbzFBNkEzM3NNSzlNSS11WDVtSy1Ca196eW9Pdml0WXI5aUVXZXJhdG5XMWlFWkd0YzhtQzFWUXFqcGhILWgzMjZub1g1bTNEV1daRl83YkFxbUhzMEtrRWtZVGt2alFSZw?oc=5"
+    },
+    {
+     "text": "Bouře Charles způsobila povodně a rušení letů v Portugalsku a na jihu Španělska.",
+     "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather"
+    },
+    {
+     "text": "Španělský premiér Sánchez před volbami těžko burcuje rozčarovanou levici a varuje před „militaristickým myšlením“ EU.",
+     "url": "https://www.politico.eu/article/sanchez-laments-potential-for-planetary-annihilation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    }
+   ]
+  },
+  {
+   "id": "usa",
+   "name": "USA",
+   "note": "Politika a ekonomika",
+   "items": [
+    {
+     "kicker": "Kauza Nvidia",
+     "title": "Bessent viní ministerstvo obchodu, Lutnick půjde v prosinci před Kongres",
+     "summary": "Ministr financí Scott Bessent řekl, že „měsíce“ prosazoval zařazení firmy Megaspeed na černou listinu, ale „pero drží ministerstvo obchodu“. Lutnick podle NYT vůči Nvidii zastával měkčí linii a Bílý dům podle AP zvažuje jeho odvolání.",
+     "source": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "time": "před 1 h",
+     "verified": false,
+     "update": true,
+     "image": "media/2026-11-13/adc854a5a8f95448-1000.webp"
+    },
+    {
+     "kicker": "Zahraničí",
+     "title": "Trump chce svrhnout kubánskou vládu do konce svého mandátu",
+     "summary": "V rozhovoru s moderátorem Hughem Hewittem poprvé zasadil možnou vojenskou operaci na Kubě do časového rámce – do ledna 2029. Klíčovou roli by podle něj měl hrát ministr zahraničí Marco Rubio.",
+     "source": "Seznam Zprávy / Respekt",
+     "url": "https://www.seznamzpravy.cz/clanek/zahranicni-svrhnout-vladu-v-kube-chci-do-konce-sveho-funkcniho-obdobi-rekl-trump-320460",
+     "time": "před 5 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Politika",
+     "title": "Republikáni po debaklu v midterms hledají, co se pokazilo",
+     "summary": "Strana se vzpamatovává z porážek v Kongresu i guvernérských volbách; křesťanská pravice podle NYT mluví o „promarněné příležitosti“. Demokratičtí aktivisté zatím tlačí na své zákonodárce, aby sliby rychle proměnili v činy.",
+     "source": "AP / NYT / The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEFZeXF0eHFyNy1IVV9YbHhHdm1oOWVKV1BTZWlNeUdyakoxRnJsal91UGNjOGN0MjRGR2RTd1NxS3NPRUpYM05FcDUzSUdQem5CQ1ZJYl9wNHBJalotU1NRN1pIUkVPOFdKWTBJeUs0TWhsckxWdlotTV9LUE5UaHpIODM4OHpMU1NCTWhqSTRtMU1MVm04b0Vrbw?oc=5",
+     "time": "před 3 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    }
+   ],
+   "minor": [
+    {
+     "text": "Brooklynský státní zástupce zahájil trestní vyšetřování zřícení domu na Flatbush Avenue.",
+     "url": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-flatbus-building-collapse-investigation.html"
+    },
+    {
+     "text": "Ceny výrobců v USA v říjnu dál rostly, ale mírněji, než se čekalo; Wall Street otevřela výš.",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "rusko",
+   "name": "Rusko",
+   "note": "Pohledem nezávislých médií",
+   "items": [
+    {
+     "kicker": "Bezpečnost",
+     "title": "Druhý výbuch auta za dva dny: v Moskvě těžce zraněn exmluvčí Azarova",
+     "summary": "Pod SUV dvaasedmdesátiletého Sergeje Zavorotného, někdejšího mluvčího proruského ukrajinského premiéra Mykoly Azarova, podle Kommersantu explodovala magnetická bomba. Vyšetřovací výbor stíhá pokus o vraždu a prověřuje stopu ukrajinských tajných služeb.",
+     "source": "The Moscow Times / Meduza / Novaya Gazeta Europe / Reuters / The Guardian / Aktuálně.cz",
+     "url": "https://www.themoscowtimes.com/2026/11/13/former-aide-to-pro-russian-ukrainian-pm-seriously-injured-in-moscow-car-blast-a94251",
+     "time": "před 6 h",
+     "verified": true,
+     "update": false,
+     "image": "media/2026-11-13/238c479ef62c4bf0-1000.webp"
+    },
+    {
+     "kicker": "Válka",
+     "title": "Ukrajinské drony zapálily volgogradskou rafinerii Lukoilu, zemřeli čtyři lidé",
+     "summary": "Úřady hlásí čtyři mrtvé zaměstnance průmyslové zóny, u čerpacích stanic se podle Meduzy tvoří fronty. Rusko tvrdí, že přes noc sestřelilo téměř 1200 ukrajinských dronů.",
+     "source": "Meduza / The Moscow Times / Novaya Gazeta Europe / ČT24 / Reuters",
+     "url": "https://meduza.io/en/news/2026/11/13/ukrainian-drone-attack-sparks-fire-at-volgograd-oil-refinery-killing-four-lines-form-at-gas-stations-across-city",
+     "time": "před 7 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Válka",
+     "title": "FT: ve válce mohlo zemřít kolem 550 tisíc Rusů",
+     "summary": "Odhad Financial Times je výrazně vyšší než 450 tisíc, které minulý týden zveřejnili hackeři z dat Rosstatu; rozdíl vysvětluje zpožděným dohledáváním padlých, například z Mariupolu.",
+     "source": "Novaya Gazeta Europe",
+     "url": "https://novayagazeta.eu/articles/2026/11/13/na-voine-v-ukraine-pogibli-okolo-550-tysiach-rossiian-ft-news",
+     "time": "před 4 h",
+     "verified": false,
+     "update": false,
+     "image": null
+    }
+   ],
+   "minor": [
+    {
+     "text": "Zabavené pobočky západních firem pod „dočasnou správou“ poslaly na válečné účely přes 86 milionů dolarů (Bloomberg).",
+     "url": "https://www.themoscowtimes.com/2026/11/13/seized-western-businesses-donate-86m-to-russian-war-effort-a94252"
+    },
+    {
+     "text": "Roskomnadzor za 2,27 miliardy rublů zavádí filtrování internetu pomocí strojového učení.",
+     "url": "https://meduza.io/en/news/2026/11/13/russia-rolls-out-ai-powered-internet-traffic-filtering-system-at-a-cost-of-2-3-billion-rubles"
+    },
+    {
+     "text": "Sleva ruské ropy Urals vůči Brentu je nejvyšší za víc než tři roky, Indie omezila nákupy.",
+     "url": "https://www.themoscowtimes.com/2026/11/13/russian-oil-discounts-hit-3-year-high-as-middle-east-supplies-recover-a94256"
+    },
+    {
+     "text": "Kreml chystá zákon, který seřadí „tradiční hodnoty“ – vlastenectví nad život a milosrdenství.",
+     "url": "https://meduza.io/en/news/2026/11/13/kremlin-plans-to-rank-russia-s-traditional-values-placing-patriotism-above-life-and-mercy"
+    }
+   ]
+  },
+  {
+   "id": "japonsko",
+   "name": "Japonsko",
+   "note": "Politika, ekonomika, technologie",
+   "items": [
+    {
+     "kicker": "Byznys",
+     "title": "Sumitomo Mitsui a Mizuho zvedají výhled zisku a skupují akcie",
+     "summary": "Dvě z největších japonských bank zlepšily celoroční odhad zisku a ohlásily zpětný odkup akcií.",
+     "source": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/",
+     "time": "před 7 h",
+     "verified": false,
+     "update": false,
+     "image": "media/2026-11-13/3a4a318355c62b22-1000.webp"
+    },
+    {
+     "kicker": "Věda",
+     "title": "Tokijský tým poprvé spojil rostlinné a živočišné buňky",
+     "summary": "Vědci z Tokijské univerzity vytvořili hybridní buňky „planimal“ fúzí primitivních řas s kultivovanými živočišnými buňkami.",
+     "source": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/",
+     "time": "před 6 h",
+     "verified": false,
+     "update": false,
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "cina",
+   "name": "Čína",
+   "note": "Politika, ekonomika, Tchaj-wan",
+   "items": [
+    {
+     "kicker": "Technologie",
+     "title": "Čínské AI projekty za 3 miliardy dolarů závislé na čipech Nvidia jsou v ohrožení",
+     "summary": "Odchod Jensena Huanga a tlak Washingtonu ohrožují čínská datová centra postavená na čipech Nvidia, píše Reuters. Bloomberg zároveň popsal síť čínských firem s propašovanými čipy, v jejímž středu má být údajná špionka Alice Huangová.",
+     "source": "Reuters / Engadget / The Japan Times",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+     "time": "před 1 h",
+     "verified": true,
+     "update": false,
+     "image": "media/2026-11-13/6cc55d8737cce969-1000.webp"
+    },
+    {
+     "kicker": "Armáda",
+     "title": "Po Si Ťin-pchingově čistce generálů stoupá vojenský „inkvizitor“",
+     "summary": "Z vyloučení desítek generálů na nedávném plénu strany vyšel jako vítěz Čang Šeng-min, šéf armádní disciplinární komise, popisuje NYT.",
+     "source": "NYT",
+     "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
+     "time": "před 5 h",
+     "verified": false,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Politika",
+     "title": "Vyšetřují bývalého šéfa strany ve Wu-chanu z doby covidu",
+     "summary": "Protikorupční úřad oznámil šetření stranického tajemníka, který vedl Wu-chan na začátku pandemie.",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHJGYjV4YkROWTEzYUlDMzNzNTRfMnlqckp1bHlBaXpub2xNbUNUY1E1R1A3eHpOdHRYV2wtYkhob1V3RFhua2RPSzBPWkpSb1pMRkl3Vm9pcUNWZzF2Qkh2T2V0bHl2eUoyT29IaWFYaE9OM2tvN3Rqbi1pRHMyVEhUS3k5UzZRaW16THJmYXBEdnJuUzJpVFNKZ2dRYjRqblc5YXNFU1BoalNodFFoeTNxRHFyNDRpQUZCOXZuTVlCeklT?oc=5",
+     "time": "před 4 h",
+     "verified": false,
+     "update": false,
+     "image": null
+    }
+   ],
+   "minor": [
+    {
+     "text": "Trump bude na summitu ASEAN v Manile tlačit země jihovýchodní Asie do své iniciativy Pax Silica proti čínským dodavatelským řetězcům.",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila"
+    },
+    {
+     "text": "Výrobce AI serverů xFusion prošel prověrkou pro IPO v Šen-čenu za 1,2 miliardy dolarů.",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTks0OTlzemNyT2hTNm5PeVVkUGIyb2hzN2FuUjdOdzNiVFJXbl9tZlBMWmpPdUpZTTFvMWhSZ1VTczdNclhPdjYyZzhoSk14cHBEZlBzNUpvY05aQW4zMktjWWdIbXdRSDFmWmtjUDdsXzlqZVQ4cGpKNlRBbVZBM3lSLTJCbndOSlNKTTJpTjMwelNTVF9oaXVzcWdDT3NKZ0dYS1ZETnRXdXlVQXpBOUZrOEZIT19xUXhHQmNTQWRCUQ?oc=5"
+    },
+    {
+     "text": "Rozhovory USA a Číny o bezpečnosti AI brzdí spor, co je „vážný“ incident.",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374381/us-china-ai-safety-talks-face-hurdle-over-how-define-serious-incidents-analysts"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "AI & technologie",
+   "note": "AI, zařízení, vynálezy, byznys",
+   "items": [
+    {
+     "kicker": "Byznys a regulace",
+     "title": "Výpadek Microsoftu trvá přes den, firma vylučuje útok",
+     "summary": "Potíže začaly ve čtvrtek u Outlooku a Teams a rozšířily se na cloud, Copilot, Defender i Intune; zasáhly instituce ve víc než 70 zemích včetně českých ministerstev. Microsoft hlásí zlepšení a mluví o „nečekané nedostupnosti velkého počtu serverů“, přesnou příčinu ale neuvedl.",
+     "source": "Seznam Zprávy / TechCrunch / BBC / DW / Živě.cz",
+     "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-vypadek-microsoft-otazky-a-odpovedi-320463",
+     "time": "před 2 h",
+     "verified": true,
+     "update": true,
+     "image": "media/2026-11-13/dbf06d73ccdb6e69-1000.webp"
+    },
+    {
+     "kicker": "Umělá inteligence",
+     "title": "Goldman: Anthropic příští rok spálí přes 65 miliard dolarů",
+     "summary": "Analytici banky, která vede IPO, podle NYT investorům řekli, že firma v roce 2027 utratí přes 65 miliard a v roce 2028 dalších 41 miliard dolarů. Zájem o akcie přesto šestkrát převyšuje nabídku, ocenění má být kolem 1,4 bilionu dolarů.",
+     "source": "NYT / The Decoder / DW",
+     "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+     "time": "před chvílí",
+     "verified": true,
+     "update": true,
+     "image": null
+    },
+    {
+     "kicker": "Byznys a regulace",
+     "title": "Huang nástupkyni nevěřil, tvrdí WSJ",
+     "summary": "Odstoupivší šéf Nvidie měl dočasnou CEO Colette Kressovou v létě označit za „srnu v reflektorech“. Reuters zároveň píše o Huangově vztahu s druhou zaměstnankyní; Jižní Korea říká, že Nvidia dodrží slíbené dodávky GPU.",
+     "source": "TechCrunch / Reuters",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+     "time": "před 3 h",
+     "verified": true,
+     "update": true,
+     "image": null
+    },
+    {
+     "kicker": "Byznys a regulace",
+     "title": "Lídři EU poprvé jednali o umělé inteligenci",
+     "summary": "Na prvním summitu věnovaném AI v Dublinu vystoupili šéf Mistralu Arthur Mensch a nobelista Geoffrey Hinton. EU hledá jednotnou politiku k rychle se vyvíjející technologii.",
+     "source": "DW / Reuters",
+     "url": "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463?maca=en-rss-en-all-1573-rdf",
+     "time": "před 5 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Umělá inteligence",
+     "title": "OpenAI vstupuje do kyberbezpečnosti",
+     "summary": "Pod značkou Daybreak spustila dva produkty; Daybreak Red Team v předběžném přístupu pomocí AI agentů automaticky hledá zranitelnosti webových aplikací a ověřuje nalezené chyby.",
+     "source": "The Decoder",
+     "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+     "time": "před chvílí",
+     "verified": false,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Vynálezy a věda",
+     "title": "Starship se poprvé pokusí přistát na souši",
+     "summary": "SpaceX při 15. letu chce poprvé zachytit horní stupeň na pevnině – asi 22,5 hodiny po startu. Pokud vyjde i návrat prvního stupně, šlo by o první plně znovupoužitelnou orbitální raketu.",
+     "source": "Reuters / Ars Technica / NPR",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+     "time": "před 1 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Zařízení a gadgety",
+     "title": "Apple TV 4K a domácí displej HomeView jsou v prodeji",
+     "summary": "Apple od pátku prodává novou generaci Apple TV 4K a ovladač chytré domácnosti HomeView; spustil i objednávky videozvonku a kamer řady Apple Home.",
+     "source": "MacRumors / 9to5Mac / Engadget",
+     "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+     "time": "před 5 h",
+     "verified": true,
+     "update": false,
+     "image": null
+    },
+    {
+     "kicker": "Česká tech scéna",
+     "title": "AŽD zkouší Starlink pro autonomní vlak",
+     "summary": "Experimentální autonomní vozidlo EDITA dostalo satelitní připojení, které má zajistit spojení vlaku s infrastrukturou tam, kde pozemní sítě nestačí.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/azd-zkousi-starlink-jako-satelitni-zalohu-pro-autonomni-vlaky/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "time": "před 5 h",
+     "verified": false,
+     "update": false,
+     "image": "media/2026-11-13/acac21a779f1c3f4-360.webp"
+    }
+   ],
+   "minor": [
+    {
+     "text": "Uber potvrdil, že hackeři u jeho dodavatele ukradli údaje z řidičských průkazů tisíců řidičů.",
+     "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+     "text": "Irský dozor uložil majiteli Tinderu pokutu 11 milionů eur – aplikace uživatelům nevydávala úplná data.",
+     "url": "https://www.politico.eu/article/tinder-owner-hit-with-e11m-privacy-fine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "text": "O2 spustilo po celém Česku samostatnou 5G síť (SA); potřeba je kompatibilní telefon a nová SIM.",
+     "url": "https://mobilmania.zive.cz/clanky/o2-spustilo-v-celem-cesku-opravdovou-5g-sit-k-pripojeni-potrebujete-spravny-mobil-a-novy-typ-sim-karty/sc-3-a-1365693/default.aspx"
+    },
+    {
+     "text": "Vědci na COP31 varují, že hranice oteplení o 1,5 °C může padnout už v roce 2029.",
+     "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
+    }
+   ]
+  }
+ ],
+ "photo": {
+  "src": "media/2026-11-13/b3a9e5f08a8f53e2-1800.webp",
+  "title": "Noc v Kyjevě",
+  "text": "Ruský dron zasáhl ve 3 ráno ortopedickou nemocnici v centru města, výbuch vyrazil okna i v protější Národní akademii umění.",
+  "credit": "Foto: Alessio Mamo / The Guardian",
+  "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
+ },
+ "community": [
+  {
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "note": "371 bodů · výpadek Clauda a Claude Code"
+  },
+  {
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "note": "301 bodů · model se 145 mld. parametrů pro vlastní počítač"
+  },
+  {
+   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+   "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+   "note": "355 bodů · kandidát na trpasličí planetu za Plutem"
+  },
+  {
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "note": "1070 bodů · komunita sleduje výpadek Microsoftu"
+  }
+ ],
+ "weatherText": "Praha večer: polojasno a ochlazení ze 7 °C na zhruba 3 °C kolem 22. hodiny, bez srážek; noc a zítřejší ráno budou chladné, kolem 3 °C i níž.",
+ "readMin": 5,
+ "markets": {
+  "vwce": {
+   "price_eur": 169.82,
+   "date": "2026-11-13",
+   "prev_eur": 171.62,
+   "day_pct": -1.05,
+   "source": "justETF (XETRA)",
+   "spark_eur": [
+    169.38,
+    168.06,
+    169.86,
+    165.98,
+    165.84,
+    167.42,
+    167.62,
+    170.92,
+    171.42,
+    169.76
+   ],
+   "week_pct": 2.36,
+   "price_czk_cnb": 4147.85
+  },
+  "btc": {
+   "price_eur": 62220,
+   "price_usd": 68789,
+   "price_czk_market": 1519458,
+   "day_pct": -3.63,
+   "source": "CoinGecko",
+   "spark_eur": [
+    67982,
+    67983,
+    67048,
+    67069,
+    66008,
+    66678,
+    64592,
+    62254
+   ],
+   "week_pct": -8.43,
+   "price_czk_cnb": 1519723.5
+  },
+  "cnb": {
+   "date": "13.11.2026",
+   "EUR": 24.425,
+   "USD": 22.101
+  },
+  "comment": "VWCE na XETRA za den ztrácí asi 1 % (týden stále +2,4 %), přestože Wall Street podle Reuters otevřela výš po mírnějších datech o cenách výrobců. Bitcoin odepsal 3,6 % a za týden 8,4 %; konkrétní spouštěč zdroje neuvádějí, DW píše o obavách z AI bubliny před IPO Anthropicu."
+ },
+ "weather": {
+  "city": "Praha",
+  "now": {
+   "time": "2026-11-13T16:15",
+   "interval": 900,
+   "temperature_2m": 6.9,
+   "weather_code": 2,
+   "wind_speed_10m": 13.1
+  },
+  "daily": {
+   "time": "2026-11-13",
+   "temperature_2m_max": 8.1,
+   "temperature_2m_min": 2.8,
+   "precipitation_sum": 0.0,
+   "weather_code": 61,
+   "sunrise": "2026-11-13T07:11",
+   "sunset": "2026-11-13T16:20"
+  },
+  "hours": [
+   {
+    "h": "07",
+    "t": 3,
+    "p": 0
+   },
+   {
+    "h": "10",
+    "t": 4,
+    "p": 0
+   },
+   {
+    "h": "13",
+    "t": 8,
+    "p": 0
+   },
+   {
+    "h": "16",
+    "t": 7,
+    "p": 0
+   },
+   {
+    "h": "19",
+    "t": 5,
+    "p": 0
+   },
+   {
+    "h": "22",
+    "t": 3,
+    "p": 0
+   }
+  ],
+  "note": "weather_code = WMO code (0 jasno, 1-3 polojasno/oblačno, 45/48 mlha, 51-67 déšť/mrholení, 71-77 sníh, 80-82 přeháňky, 95+ bouřky)"
+ },
+ "podcasts": [
+  {
+   "show": "Studio N",
+   "title": "Šolcová: Babišova vláda vtahuje Čechy do konfliktu, který nechtějí. Může zradikalizovat i dosud klidnou společnost",
+   "url": "https://podcasts.apple.com/cz/podcast/%C5%A1olcov%C3%A1-babi%C5%A1ova-vl%C3%A1da-vtahuje-%C4%8Dechy-do-konfliktu-kter%C3%BD/id1476533600?i=1000801710376",
+   "meta": "22 min · dnes",
+   "color": "#7a2a1c",
+   "cover": "media/podcasts/69ef43e59071a412-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "The Daily",
+   "title": "Can Israel’s Opposition Unseat Netanyahu?",
+   "url": "https://podcasts.apple.com/cz/podcast/can-israels-opposition-unseat-netanyahu/id1200361736?i=1000801709677",
+   "meta": "30 min · dnes",
+   "color": "#1f2a44",
+   "cover": "media/podcasts/594bfec18f8cae2c-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "Hard Fork",
+   "title": "Jensen Huang Is Out at Nvidia",
+   "url": "https://podcasts.apple.com/cz/podcast/jensen-huang-is-out-at-nvidia/id1528594034?i=1000801627279",
+   "meta": "39 min · dnes",
+   "color": "#4b3a12",
+   "cover": "media/podcasts/b7d2d81fca3e554a-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "Vinohradská 12",
+   "title": "Pochyby o vraždě. Lindsay C. znovu u soudu",
+   "url": "https://podcasts.apple.com/cz/podcast/pochyby-o-vra%C5%BEd%C4%9B-lindsay-c-znovu-u-soudu/id1458203948?i=1000801617271",
+   "meta": "21 min · dnes",
+   "color": "#23395d",
+   "cover": "media/podcasts/a54eaa7e022f82e0-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "The Journal.",
+   "title": "What is Nvidia Without Jensen Huang?",
+   "url": "https://podcasts.apple.com/cz/podcast/what-is-nvidia-without-jensen-huang/id1469394914?i=1000801589719",
+   "meta": "19 min · včera",
+   "color": "#1a1a1a",
+   "cover": "media/podcasts/534bb2ffe92f461e-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "Amerika, bejby",
+   "title": "Americký sen, nebo slepá touha po moci? Viceprezident J. D. Vance už v životě zradil kdekoho. Nyní to možná čeká i Donalda Trumpa",
+   "url": "https://podcasts.apple.com/cz/podcast/americk%C3%BD-sen-nebo-slep%C3%A1-touha-po-moci-viceprezident/id1846801920?i=1000801549376",
+   "meta": "21 min · včera",
+   "color": "#2b3f6b",
+   "cover": "media/podcasts/7f28048bb86b3e90-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "Řečí peněz",
+   "title": "Evropané protestují proti drahotě a bydlení. Co na to ekonom?",
+   "url": "https://podcasts.apple.com/cz/podcast/evropan%C3%A9-protestuj%C3%AD-proti-drahot%C4%9B-a-bydlen%C3%AD-co-na-to-ekonom/id1217387382?i=1000801493728",
+   "meta": "25 min · včera",
+   "color": "#5a4a1a",
+   "cover": "media/podcasts/3c7c31e1fc843aea-480.webp",
+   "isNew": true
+  },
+  {
+   "show": "Vrtěti psem",
+   "title": "Starostové drtí ODS. Jak se jim spolu povládne v Praze?",
+   "url": "https://podcasts.apple.com/cz/podcast/starostov%C3%A9-drt%C3%AD-ods-jak-se-jim-spolu-povl%C3%A1dne-v-praze/id1813948925?i=1000801245608",
+   "meta": "17 min · 11. 11.",
+   "color": "#6b2b2b",
+   "cover": "media/podcasts/bca526a971d32c95-480.webp",
+   "isNew": false
+  },
+  {
+   "show": "Vlevo dole",
+   "title": "Havlíček prohrává se Schillerovou. Místo úlev vyšší daně a kontroly",
+   "url": "https://podcasts.apple.com/cz/podcast/havl%C3%AD%C4%8Dek-prohr%C3%A1v%C3%A1-se-schillerovou-m%C3%ADsto-%C3%BAlev-vy%C5%A1%C5%A1%C3%AD/id1510803097?i=1000801156084",
+   "meta": "51 min · 11. 11.",
+   "color": "#1d3b2f",
+   "cover": "media/podcasts/d79fcfb0ea5a3a78-480.webp",
+   "isNew": false
+  },
+  {
+   "show": "Padni komu padni",
+   "title": "Padni komu padni 102: Babišova daňová hydra vrátí drahotu. Schillerová zdaní banky, zaplatíte to vy",
+   "url": "https://podcasts.apple.com/cz/podcast/id1773043188",
+   "meta": "56 min · 9. 11.",
+   "color": "#5b1f3a",
+   "cover": "media/podcasts/352c64689d763516-480.webp",
+   "isNew": false
+  },
+  {
+   "show": "Romancov a spol.",
+   "title": "Lula, Bolsonaro a Trump. O co se hraje v Latinské Americe?",
+   "url": "https://podcasts.apple.com/cz/podcast/lula-bolsonaro-a-trump-o-co-se-hraje-v-latinsk%C3%A9-americe/id1718405903?i=1000800763894",
+   "meta": "21 min · 9. 11.",
+   "color": "#3d4a2a",
+   "cover": "media/podcasts/0ae7912e5a590a03-480.webp",
+   "isNew": false
+  }
+ ],
+ "sourcesStatus": [
+  [
+   "ČT24",
+   true
+  ],
+  [
+   "iROZHLAS",
+   true
+  ],
+  [
+   "Deník N",
+   true
+  ],
+  [
+   "Reflex",
+   true
+  ],
+  [
+   "Seznam Zprávy",
+   true
+  ],
+  [
+   "Aktuálně.cz",
+   true
+  ],
+  [
+   "Respekt",
+   true
+  ],
+  [
+   "NYT",
+   true
+  ],
+  [
+   "NYT World",
+   true
+  ],
+  [
+   "Reuters",
+   true
+  ],
+  [
+   "AP",
+   true
+  ],
+  [
+   "BBC",
+   true
+  ],
+  [
+   "The Guardian",
+   true
+  ],
+  [
+   "The Guardian Europe",
+   true
+  ],
+  [
+   "Politico Europe",
+   true
+  ],
+  [
+   "DW",
+   true
+  ],
+  [
+   "OpenAI",
+   true
+  ],
+  [
+   "Google DeepMind",
+   true
+  ],
+  [
+   "Hugging Face",
+   true
+  ],
+  [
+   "NYT Technology",
+   true
+  ],
+  [
+   "The Verge",
+   true
+  ],
+  [
+   "Ars Technica",
+   true
+  ],
+  [
+   "TechCrunch",
+   true
+  ],
+  [
+   "The Guardian Tech",
+   true
+  ],
+  [
+   "MIT Technology Review",
+   true
+  ],
+  [
+   "The Decoder",
+   true
+  ],
+  [
+   "Simon Willison",
+   true
+  ],
+  [
+   "Import AI",
+   true
+  ],
+  [
+   "Hacker News",
+   true
+  ],
+  [
+   "Lupa.cz",
+   true
+  ],
+  [
+   "Živě.cz",
+   true
+  ],
+  [
+   "CzechCrunch",
+   true
+  ],
+  [
+   "NYT U.S.",
+   true
+  ],
+  [
+   "NYT Politics",
+   true
+  ],
+  [
+   "Politico",
+   true
+  ],
+  [
+   "NPR",
+   true
+  ],
+  [
+   "The Guardian US",
+   true
+  ],
+  [
+   "Meduza",
+   true
+  ],
+  [
+   "The Moscow Times",
+   true
+  ],
+  [
+   "Novaya Gazeta Europe",
+   true
+  ],
+  [
+   "The Guardian Russia",
+   true
+  ],
+  [
+   "Reuters Russia",
+   true
+  ],
+  [
+   "The Japan Times",
+   true
+  ],
+  [
+   "Nikkei Asia",
+   true
+  ],
+  [
+   "The Guardian Japan",
+   true
+  ],
+  [
+   "Reuters Japan",
+   true
+  ],
+  [
+   "SCMP China",
+   true
+  ],
+  [
+   "Sixth Tone",
+   true
+  ],
+  [
+   "The Guardian China",
+   true
+  ],
+  [
+   "Reuters China",
+   true
+  ],
+  [
+   "MacRumors",
+   true
+  ],
+  [
+   "9to5Mac",
+   true
+  ],
+  [
+   "SamMobile",
+   true
+  ],
+  [
+   "GSMArena",
+   true
+  ],
+  [
+   "Engadget",
+   true
+  ],
+  [
+   "Wired",
+   true
+  ],
+  [
+   "IEEE Spectrum",
+   true
+  ],
+  [
+   "New Scientist Tech",
+   true
+  ],
+  [
+   "Jablíčkář",
+   true
+  ]
+ ],
+ "stats": {
+  "items": 1153,
+  "sources": 59
+ }
+}
