@@ -279,8 +279,9 @@ figcaption,.credit{font:400 11px/1.4 var(--mono);color:var(--muted);margin-top:7
   <div><div class="eyebrow" style="margin-bottom:12px">Stav zdrojů</div><div class="status" id="status"></div></div>
   <div>
     <p id="gen"></p>
-    <p>Zprávy vybírá Hermes z důvěryhodných médií, odkazy vedou na původní články. Tržní data jsou k poslední uzávěrce, přepočet na Kč kurzem ČNB.</p>
+    <p>Zprávy vybírá Hermes z důvěryhodných médií podle pokynů a požadavků Jana Dobeše, odkazy vedou na původní články. Tržní data jsou k poslední uzávěrce, přepočet na Kč kurzem ČNB.</p>
     <p>Obrázky patří uvedeným médiím a vedou na původní články. Ilustrační fotky: Wikimedia Commons.</p>
+    <p>Součást projektů <a class="hl" href="https://nacestach.online/" target="_blank" rel="noopener">nacestach.online</a> · Kontakt: <a class="hl" href="mailto:info@nacestach.info">info@nacestach.info</a></p>
   </div>
 </div></footer>
 <div class="scrim" id="scrim"></div>
@@ -315,7 +316,7 @@ function render(b){
   const mkRow=(n,d,o)=>`<tr><td>${n}<small>${d}</small></td><td>${nf(o.price_eur,o.price_eur>1000?0:2)} €<small class="czk">${nf(o.price_czk_cnb,0)} Kč</small></td><td>${pct(o.day_pct)}<small class="czk">týden ${o.week_pct!=null?(o.week_pct>=0?'+':'−')+nf(Math.abs(o.week_pct))+' %':'–'}</small>${spark(o.spark_eur,(o.week_pct??o.day_pct)>=0)}</td></tr>`;
   $("#app").innerHTML=`
   <section class="mast"><div class="wrap">
-    <div><div class="eyebrow">${esc(b.kicker||'Ranní vydání')}</div><h1>${em(b.title)}</h1><p class="intro">${esc(b.intro)}</p></div>
+    <div><div class="eyebrow">${esc((b.kicker||'Ranní vydání').replace(/\s*·\s*pro Honzu/,''))}</div><h1>${em(b.title)}</h1><p class="intro">${esc(b.intro)}</p></div>
     <div class="meta"><strong>${esc(b.dateLabel)}</strong>Vydáno ${esc(b.generated)} · čtení ${b.readMin||8} min<br>Další vydání zítra v 7:00</div>
   </div></section>
   <div class="wrap"><section class="front">
@@ -346,7 +347,7 @@ function render(b){
     ${(b.podcasts||[]).length?`<section class="listen"><h3>K poslechu <span class="mono" style="font-weight:400;letter-spacing:0;text-transform:none;color:var(--muted)">nejnovější díly</span></h3><div class="pods">${b.podcasts.map(p=>`<a class="pod" href="${safeUrl(p.url)}" target="_blank" rel="noopener"><div class="cover ${imgSrc(p.cover)?'img':''}" style="background-color:${esc(p.color)};${imgSrc(p.cover)?`background-image:url('${imgSrc(p.cover)}')`:''}"><span>Podcast</span><b>${esc(p.show)}</b></div><div class="show">${esc(p.show)}${p.isNew?' · <span style="color:var(--up)">nový díl</span>':''}</div><h4 class="hl">${esc(p.title)}</h4><small>${esc(p.meta)}</small><div class="play">▶ Poslechnout</div></a>`).join('')}</div></section>`:''}
   </div>`;
   $("#status").innerHTML=(b.sourcesStatus||[]).map(([n,ok])=>`<span><i class="${ok?'':'w'}"></i>${esc(n)}</span>`).join('');
-  $("#gen").innerHTML=`Sestavil <b style="color:var(--ink)">Hermes</b> ${esc(b.dateLabel)} v ${esc(b.generated)} z ${b.stats?b.stats.items:'?'} zpráv od ${b.stats?b.stats.sources:'?'} zdrojů.`;
+  $("#gen").innerHTML=`Sestavil <b style="color:var(--ink)">Hermes</b> podle pokynů a požadavků Jana Dobeše ${esc(b.dateLabel)} v ${esc(b.generated)} z ${b.stats?b.stats.items:'?'} zpráv od ${b.stats?b.stats.sources:'?'} zdrojů.`;
   $("#filters").addEventListener("click",e=>{const c=e.target.closest(".chip");if(!c)return;
     document.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed",x===c));
     document.querySelectorAll(".sec").forEach(s=>s.hidden=!(c.dataset.f==="all"||s.dataset.id===c.dataset.f));});
