@@ -292,6 +292,7 @@ figcaption,.credit{font:400 11px/1.4 var(--mono);color:var(--muted);margin-top:7
 <script>window.MH_API_BASE="test-audio/";</script>
 <script src="test-audio/audio-ui.js?v=3"></script>
 <script>
+if(!window.MorgenAudio){var pbtn=document.querySelector("#mh-podcast-open"); if(pbtn) pbtn.hidden=true;}
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const em=s=>esc(s).replace(/&lt;em&gt;/g,"<em>").replace(/&lt;\/em&gt;/g,"</em>");
