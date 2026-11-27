@@ -259,6 +259,7 @@ figcaption,.credit{font:400 11px/1.4 var(--mono);color:var(--muted);margin-top:7
 .hn li{padding:9px 0;border-bottom:1px solid var(--rule);font-size:14px}
 .hn small{display:block;color:var(--muted);font:400 11px/1.5 var(--mono)}
 </style>
+<link rel="stylesheet" href="test-audio/audio-ui.css">
 </head>
 <body>
 <header class="top">
@@ -267,6 +268,8 @@ figcaption,.credit{font:400 11px/1.4 var(--mono);color:var(--muted);margin-top:7
     <div style="margin-left:auto"></div>
     <button class="iconbtn" id="archBtn" aria-label="Archiv">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg><span class="hide-sm">Archiv</span></button>
+    <button class="iconbtn" id="mh-podcast-open" type="button" aria-label="Podcast" aria-haspopup="dialog" aria-controls="mh-podcast-dialog" title="Vytvořit podcast">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg><span class="hide-sm">Podcast</span></button>
   </div>
 </header>
 <div class="ticker"><div class="wrap" id="ticker"></div></div>
@@ -286,6 +289,8 @@ figcaption,.credit{font:400 11px/1.4 var(--mono);color:var(--muted);margin-top:7
   <h3>Archiv <button id="closeArch" aria-label="Zavřít">✕</button></h3>
   <div id="days"></div>
 </aside>
+<script>window.MH_API_BASE="test-audio/";</script>
+<script src="test-audio/audio-ui.js?v=3"></script>
 <script>
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -347,6 +352,7 @@ function render(b){
   $("#filters").addEventListener("click",e=>{const c=e.target.closest(".chip");if(!c)return;
     document.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed",x===c));
     document.querySelectorAll(".sec").forEach(s=>s.hidden=!(c.dataset.f==="all"||s.dataset.id===c.dataset.f));});
+  if(window.MorgenAudio) MorgenAudio.mount(b);
 }
 const j=u=>fetch(u+(u.includes('?')?'&':'?')+'t='+Date.now()).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
 let shown=null,lastCheck=0;const EDO={morning:0,afternoon:1,special:2};
